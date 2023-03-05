@@ -1,0 +1,11 @@
+Build started at 2023-03-02T21:16:35.649245
+Python binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.37.1
+Source dir: /home/dpdk_study
+Build dir: /home/dpdk_study/setup
+Build type: native build
+
+Meson encountered an error in file meson_options.txt, line 7, column 0:
+Unknown type feature.
