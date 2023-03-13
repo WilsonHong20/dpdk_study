@@ -86,7 +86,9 @@ drivers:
         regex/mlx5:     missing internal dependency, "common_mlx5"
         vdpa/mlx5:      missing internal dependency, "common_mlx5"
         gpu/cuda:       missing dependency, "cuda.h"
-
+```
+```powershell
+   yum -y install libdpdk-dev 
 ```
 
 
