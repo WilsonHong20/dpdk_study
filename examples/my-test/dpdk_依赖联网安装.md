@@ -111,3 +111,6 @@ vi /usr/bin/yum
 vi /usr/libexec/urlgrabber-ext-down
 !/usr/bin/python2.7   //修改成2.7
 ```
+
+# DPDK执行相关参数
+[DPDk执行相关参数](https://www.jianshu.com/p/b2b2b8edfeaa)
